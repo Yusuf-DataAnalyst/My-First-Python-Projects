@@ -7,30 +7,32 @@ This repository contains my early projects in Python, developed entirely on a **
 
 ## 🚀 Projects | المشاريع
 
-### 1. Sales Analysis Tool 📈
-* **English:** A script to calculate total sales, item details, and identify the top-selling product ("The King of Sales").
-* **عربي:** برنامج لتحليل المبيعات، يحسب الإجمالي وتفاصيل المنتجات ويحدد المنتج الأكثر مبيعاً.
-* **Main Logic:** Uses dictionaries and loops to process data.
+### 1️⃣ El Prince Kitchen System (`elprince_kitchen_system.py`) 👨‍🍳
+* **English:** A smart system I created during my work at "El Prince" restaurant. It calculates the number of rice pots needed based on customer count and tracks the remaining time until Iftar.
+* **عربي:** نظام ذكي صممته أثناء عملي في مطعم البرنس. يقوم بحساب عدد حلل الرز المطلوبة بناءً على عدد الزبائن، ومتابعة الوقت المتبقي للإفطار بدقة.
 
-### 2. Expense Tracker 💰
-* **English:** A tool to monitor daily expenses with a high-price alert system and average calculation.
-* **عربي:** أداة لمتابعة المصاريف اليومية مع نظام تنبيه للمصاريف العالية وحساب المتوسط.
+### 2️⃣ Sales Analysis Tool (`sales_analysis.py`) 📈
+* **English:** A script to calculate total sales and identify the top-selling product ("The King of Sales").
+* **عربي:** برنامج لتحليل المبيعات، يحسب الإجمالي ويحدد المنتج الأكثر مبيعاً.
+
+### 3️⃣ Expense Tracker (`expense_tracker.py`) 💰
+* **English:** A tool to monitor daily expenses with a high-price alert system.
+* **عربي:** أداة لمتابعة المصاريف اليومية مع نظام تنبيه للمصاريف العالية.
 
 ---
 
 ## 🖼️ Preview | معاينة النتائج
-Below are screenshots of the programs running on my phone:
-هذه صور لنتائج تشغيل البرامج من هاتفي:
 
-### Sales Project Result:
+### El Prince Kitchen System:
+![Kitchen Result](El_Prince.jpg)
+
+### Sales & Expenses:
 ![Sales Result](sales_result.jpg)
-
-### Expense Tracker Result:
 ![Expense Result](expense_result.jpg)
 
 ---
 
 ## 🛠️ Tools | الأدوات
 * **Language:** Python 3
-* **Environment:** Mobile (Pydroid 3 / Chrome)
-* **Status:** Learning SQL & Excel next! ⏳
+* **Environment:** Mobile (Pydroid 3)
+* **Current Goal:** Learning Data Analysis & Improving my English.
