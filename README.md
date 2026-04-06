@@ -1,4 +1,4 @@
-# 📊 My First Python Projects - رحلتي الأولى مع بايثون
+ 📊 My First Python Projects - رحلتي الأولى مع بايثون
 
 This repository contains my early projects in Python, developed entirely on a **mobile device** while I work towards getting my first laptop.
 هذا المستودع يحتوي على مشاريعي الأولى بلغة بايثون، قمت ببرمجتها بالكامل باستخدام **الهاتف المحمول** خلال رحلتي لتعلم تحليل البيانات.
@@ -35,7 +35,7 @@ This repository contains my early projects in Python, developed entirely on a **
 ![Expense Result](expense_result.jpg)
 
 ### Asset Goal Calculator: 
-![Assest Result](AssetGoalCalculator.py) 
+![Assest Result](AssetGoalCalculator.jpg) 
 
 ---
 
