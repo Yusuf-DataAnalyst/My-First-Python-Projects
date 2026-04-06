@@ -18,6 +18,10 @@ This repository contains my early projects in Python, developed entirely on a **
 ### 3️⃣ Expense Tracker (`expense_tracker.py`) 💰
 * **English:** A tool to monitor daily expenses with a high-price alert system.
 * **عربي:** أداة لمتابعة المصاريف اليومية مع نظام تنبيه للمصاريف العالية.
+* ### 4️⃣ Asset Goal & Investment Calculator (`asset_calculator.py`)
+* **English:** A financial tool to estimate the time required to reach a specific financial goal (like buying an apartment or gold), taking into account investment returns and annual inflation.
+* **عربي:** أداة مالية لحساب الوقت المطلوب للوصول لهدف مالي معين (مثل شراء شقة أو ذهب)، مع مراعاة العائد على الاستثمار ونسبة التضخم السنوي.
+
 
 ---
 
