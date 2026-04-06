@@ -34,6 +34,9 @@ This repository contains my early projects in Python, developed entirely on a **
 ![Sales Result](sales_result.jpg)
 ![Expense Result](expense_result.jpg)
 
+### Asset Goal Calculator: 
+![Assest Result](AssetGoalCalculator.py) 
+
 ---
 
 ## 🛠️ Tools | الأدوات
