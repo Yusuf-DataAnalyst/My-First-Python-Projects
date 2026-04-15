@@ -21,7 +21,14 @@ This repository contains my early projects in Python, developed entirely on a **
 * ### 4️⃣ Asset Goal & Investment Calculator (`asset_calculator.py`)
 * **English:** A financial tool to estimate the time required to reach a specific financial goal (like buying an apartment or gold), taking into account investment returns and annual inflation.
 * **عربي:** أداة مالية لحساب الوقت المطلوب للوصول لهدف مالي معين (مثل شراء شقة أو ذهب)، مع مراعاة العائد على الاستثمار ونسبة التضخم السنوي.
+### 5️⃣ Sales Summary Dashboard (Excel) 📊
+* **English:** My first professional data analysis project using Microsoft Excel on my new laptop. It features a sales summary by region and salesperson using named ranges and SUM functions.
+* **عربي:** أول مشروع تحليل بيانات احترافي باستخدام ميكروسوفت إكسيل على لابتوبي الجديد. يتضمن ملخص مبيعات حسب المنطقة والمندوب مع استخدام النطاقات المسماة ودالة الجمع.
 
+---
+
+### Excel Project Preview:
+![Excel Result](Excel_Sales_Summary.png)
 
 ---
 
