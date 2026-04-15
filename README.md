@@ -47,6 +47,6 @@ This repository contains my early projects in Python, developed entirely on a **
 ---
 
 ## 🛠️ Tools | الأدوات
-* **Language:** Python 3
-* **Environment:** Mobile (Pydroid 3)
+* **Language:** Python 3 & Microsoft Excel
+* **Environment:** Mobile (Pydroid 3) & Laptob
 * **Current Goal:** Learning Data Analysis & Improving my English.
