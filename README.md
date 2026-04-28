@@ -46,7 +46,7 @@ This repository contains my early projects in Python, developed entirely on a **
 
 
 ![Excel Certificate]
-(Edraak_certificate.pdf) 
+(Edraak_certificate.png) 
 ---
 
 ## 🛠️ Tools | الأدوات
