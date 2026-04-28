@@ -44,6 +44,9 @@ This repository contains my early projects in Python, developed entirely on a **
 ### Asset Goal Calculator: 
 ![Assest Result](AssetGoalCalculator.jpg) 
 
+
+![Excel Certificate]
+(Edraak_certificate.pdf) 
 ---
 
 ## 🛠️ Tools | الأدوات
