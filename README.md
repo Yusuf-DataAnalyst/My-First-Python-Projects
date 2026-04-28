@@ -45,8 +45,7 @@ This repository contains my early projects in Python, developed entirely on a **
 ![Assest Result](AssetGoalCalculator.jpg) 
 
 
-![Excel Certificate]
-(Edraak_certificate.png) 
+![Excel Certificate](./Edraak_certificate.jpg) 
 ---
 
 ## 🛠️ Tools | الأدوات
