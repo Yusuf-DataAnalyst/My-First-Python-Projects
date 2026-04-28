@@ -46,6 +46,15 @@ This repository contains my early projects in Python, developed entirely on a **
 
 
 ![Excel Certificate](./Edraak_certificate.jpg) 
+
+
+
+## Project Management Dashboard 📊
+هذا المشروع عبارة عن لوحة تحكم تفاعلية لإدارة المشاريع ومتابعة نسبة الإنجاز.
+
+![Dashboard Preview](./Dashboard_Preview.png)
+
+[تحميل ملف الإكسل من هنا](./Project_Management_Dashboard.xlsx)
 ---
 
 ## 🛠️ Tools | الأدوات
