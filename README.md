@@ -52,9 +52,10 @@ This repository contains my early projects in Python, developed entirely on a **
 ## Project Management Dashboard 📊
 هذا المشروع عبارة عن لوحة تحكم تفاعلية لإدارة المشاريع ومتابعة نسبة الإنجاز.
 
-![Dashboard Preview](./Dashboard_Preview.png)
-
+![Dashboard_Preview](./Dashboard_Preview.png)
 [تحميل ملف الإكسل من هنا](./Project_Management_Dashboard.xlsx)
+
+
 ---
 
 ## 🛠️ Tools | الأدوات
