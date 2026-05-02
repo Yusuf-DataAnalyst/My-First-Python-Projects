@@ -55,6 +55,17 @@ This repository contains my early projects in Python, developed entirely on a **
 ![Dashboard_Preview](./Dashboard_Preview.png)
 [تحميل ملف الإكسل من هنا](./Project_Management_Dashboard.xlsx)
 
+# مشروع تحليل المبيعات والأرباح 📈
+
+## نظرة عامة على لوحة التحكم (Sales & Profit Dashboard)
+هذا المشروع يقدم تحليلاً بصرياً متكاملاً لأداء المبيعات والأرباح، مع إمكانية الفلترة حسب الفترات الزمنية.
+
+![Sales Dashboard Preview](./sales_dashboard.png)
+
+### المهارات المستخدمة:
+* **Excel Data Visualization:** تصميم رسوم بيانية متقدمة (Column & Line Charts).
+* **Financial Analysis:** تحليل هوامش الربح وأداء المبيعات.
+* **Interactive Slicers:** إضافة فلاتر تفاعلية للبيانات.
 
 ---
 
