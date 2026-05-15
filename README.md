@@ -68,7 +68,7 @@ This repository contains my early projects in Python, developed entirely on a **
 * **Interactive Slicers:** إضافة فلاتر تفاعلية للبيانات.
 
 
-[Zomato-vs-Swiggy-Previw](./Zomato-vs-Swiggy-Analysis.jpg)
+[Zomato-vs-Swiggy-Previw](Zomato-vs-Swiggy-Analysis.jpg)
 
 This project provides a comprehensive competitive analysis between two of the largest food delivery platforms: **Zomato** and **Swiggy**. Using **Power BI**, I transformed raw restaurant data into an interactive dashboard to uncover key market trends, pricing strategies, and consumer preferences.
 
@@ -78,24 +78,6 @@ This project provides a comprehensive competitive analysis between two of the la
 * **Price Category Breakdown:** Segmentation of restaurants into Budget, Mid-Range, Luxury, and Premium to understand market positioning.
 * **App Ownership Ratio:** Visualization of how many restaurants leverage their own platforms versus third-party delivery.
 * **Interactive Slicers:** Users can filter the entire dashboard by city or cuisine type for deep-dive analysis.
-
-## Tools Used
-* **Power BI Desktop:** For data modeling and visualization.
-* **Power Query:** Used for data cleaning and transformation (ETL).
-* **DAX (Data Analysis Expressions):** To create calculated measures for ratings and counts.
-* **Dark Mode UI:** Designed for a modern, high-contrast user experience.
-
-## How to View
-1.  Download the `.pbix` file from this repository.
-2.  Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3.  Interact with the slicers and visuals to explore the data.
-
-## Author
-**Youssef Badr**
-*High School Student & Aspiring Financial Data Analyst*
-
----
-*Note: This project is part of my personal portfolio to demonstrate skills in business intelligence and data storytelling.*
 
 ---
 
