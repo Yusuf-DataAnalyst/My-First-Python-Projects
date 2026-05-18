@@ -21,14 +21,8 @@ This repository contains my early projects in Python, developed entirely on a **
 * ### 4️⃣ Asset Goal & Investment Calculator (`asset_calculator.py`)
 * **English:** A financial tool to estimate the time required to reach a specific financial goal (like buying an apartment or gold), taking into account investment returns and annual inflation.
 * **عربي:** أداة مالية لحساب الوقت المطلوب للوصول لهدف مالي معين (مثل شراء شقة أو ذهب)، مع مراعاة العائد على الاستثمار ونسبة التضخم السنوي.
-### 5️⃣ Sales Summary Dashboard (Excel) 📊
-* **English:** My first professional data analysis project using Microsoft Excel on my new laptop. It features a sales summary by region and salesperson using named ranges and SUM functions.
-* **عربي:** أول مشروع تحليل بيانات احترافي باستخدام ميكروسوفت إكسيل على لابتوبي الجديد. يتضمن ملخص مبيعات حسب المنطقة والمندوب مع استخدام النطاقات المسماة ودالة الجمع.
 
----
 
-### Excel Project Preview:
-![Excel Result](Excel_Sales_Summary.png)
 
 ---
 
@@ -45,43 +39,7 @@ This repository contains my early projects in Python, developed entirely on a **
 ![Assest Result](AssetGoalCalculator.jpg) 
 
 
-![Excel Certificate](./Edraak_certificate.jpg) 
-
-
-
-## Project Management Dashboard 📊
-هذا المشروع عبارة عن لوحة تحكم تفاعلية لإدارة المشاريع ومتابعة نسبة الإنجاز.
-
-![Dashboard_Preview](./Dashboard_Preview.png)
-[تحميل ملف الإكسل من هنا](./Project_Management_Dashboard.xlsx)
-
-# مشروع تحليل المبيعات والأرباح 📈
-
-## نظرة عامة على لوحة التحكم (Sales & Profit Dashboard)
-هذا المشروع يقدم تحليلاً بصرياً متكاملاً لأداء المبيعات والأرباح، مع إمكانية الفلترة حسب الفترات الزمنية.
-
-![Sales Dashboard Preview](./sales_dashboard.png)
-
-### المهارات المستخدمة:
-* **Excel Data Visualization:** تصميم رسوم بيانية متقدمة (Column & Line Charts).
-* **Financial Analysis:** تحليل هوامش الربح وأداء المبيعات.
-* **Interactive Slicers:** إضافة فلاتر تفاعلية للبيانات.
-
-
-[Zomato-vs-Swiggy-Previw](Zomato-vs-Swiggy-Analysis.jpg)
-
-This project provides a comprehensive competitive analysis between two of the largest food delivery platforms: **Zomato** and **Swiggy**. Using **Power BI**, I transformed raw restaurant data into an interactive dashboard to uncover key market trends, pricing strategies, and consumer preferences.
-
-## Key Insights & Features
-* **Geospatial Distribution:** An interactive map showing restaurant density across various cities.
-* **Rating Performance:** Analysis of average ratings for both platforms to identify top-performing locations.
-* **Price Category Breakdown:** Segmentation of restaurants into Budget, Mid-Range, Luxury, and Premium to understand market positioning.
-* **App Ownership Ratio:** Visualization of how many restaurants leverage their own platforms versus third-party delivery.
-* **Interactive Slicers:** Users can filter the entire dashboard by city or cuisine type for deep-dive analysis.
-
----
-
 ## 🛠️ Tools | الأدوات
-* **Language:** Python 3 & Microsoft Excel
+* **Language:** Python 3 
 * **Environment:** Mobile (Pydroid 3) & Laptob
 * **Current Goal:** Learning Data Analysis & Improving my English.
