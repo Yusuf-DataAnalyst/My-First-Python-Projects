@@ -30,7 +30,8 @@ This repository serves as a showcase for my initial journey into Python programm
 
 5️⃣ Automated File Organizer (`file_organizer.py`)
 
-An automated Python script designed to clean, sort, and manage cluttered directories by filtering and moving files into specific folders based on their extensions.
+Automated File Organizer
+​An automated Python script designed to clean, sort, and manage cluttered directories by filtering and moving files into specific folders based on their extensions.
 ​As a Data Analyst, keeping data environments structured is essential. This project automates the initial Data Triage and file organization process, saving time and establishing a reliable pipeline before the data extraction and transformation (ETL) phases.
 ​🧠 Logic & Workflow
 ​The script executes through three logical phases:
@@ -42,11 +43,6 @@ An automated Python script designed to clean, sort, and manage cluttered directo
 ​Automated File Routing: Uses conditional logic to sort files instantly.
 ​Robust Path Handling: Implements os.path.join to ensure cross-platform compatibility and avoid path string syntax errors.
 ​Streamlined Efficiency: Eliminates manual file sorting, allowing more focus on core data analysis tasks.
-​🛠️ Built With
-​Python 3
-​OS Module (Built-in file system management)
-​Shutil Module (High-level file operations)
----
 
 ## 🖼️ Results & Preview
 
