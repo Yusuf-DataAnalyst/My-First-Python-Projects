@@ -26,6 +26,26 @@ This repository serves as a showcase for my initial journey into Python programm
 * **Solution:** A complex financial modeling tool that simulates future growth.
 * **Key Functionality:** This script calculates the exact time required to reach financial targets by factoring in compounding investment returns and annual inflation rates. It helps in planning for major life purchases by providing a realistic projection of capital accumulation over time.
 
+
+
+5️⃣ Automated File Organizer (`file_organizer.py`)
+
+An automated Python script designed to clean, sort, and manage cluttered directories by filtering and moving files into specific folders based on their extensions.
+​As a Data Analyst, keeping data environments structured is essential. This project automates the initial Data Triage and file organization process, saving time and establishing a reliable pipeline before the data extraction and transformation (ETL) phases.
+​🧠 Logic & Workflow
+​The script executes through three logical phases:
+​Directory Scanning: It reads the specified path and gathers a comprehensive list of all contained files using the os module.
+​Directory Creation: It checks for the existence of target folders (csv_files, image_files, text_files). If they do not exist, it dynamically creates them.
+​File Sorting & Routing: It loops through each file, identifies its format (e.g., .csv, .png, .txt), and safely transfers it to its designated folder utilizing the shutil library.
+​🚀 Key Features
+​Dynamic Folder Checking: Prevents script crashes by verifying folder existence before creation.
+​Automated File Routing: Uses conditional logic to sort files instantly.
+​Robust Path Handling: Implements os.path.join to ensure cross-platform compatibility and avoid path string syntax errors.
+​Streamlined Efficiency: Eliminates manual file sorting, allowing more focus on core data analysis tasks.
+​🛠️ Built With
+​Python 3
+​OS Module (Built-in file system management)
+​Shutil Module (High-level file operations)
 ---
 
 ## 🖼️ Results & Preview
