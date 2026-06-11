@@ -97,7 +97,8 @@ Books to Scrape(`web_scraping.py)
 
 
 #### web scraping :
-![web scraping](web_scraping.png) 
+![web scraping](web_scraping_prev.png)
+![web scraping](web_scraping_prev2.png)
 
 ---
 
