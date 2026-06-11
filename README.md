@@ -43,6 +43,32 @@ Automated File Organizer
 ​Automated File Routing: Uses conditional logic to sort files instantly.
 ​Robust Path Handling: Implements os.path.join to ensure cross-platform compatibility and avoid path string syntax errors.
 ​Streamlined Efficiency: Eliminates manual file sorting, allowing more focus on core data analysis tasks.
+________________________________________________________________-
+
+6️⃣ Web Scraping and Data Extraction Project: Books to Scrape(`web_scraping.py)
+​Project Overview
+​This project focuses on automated data extraction and collection from the web using Python. The primary objective is to scrape a multi-page e-commerce website to extract book details, including their full titles and prices. Instead of relying on pre-existing static datasets, this project demonstrates the ability to gather live, raw data from the web, which is a foundational step in any data analysis workflow.
+​Core Features
+​Automated HTTP requests to retrieve website source code.
+​Parsing HTML structures to locate and isolate specific data points.
+​Extraction of nested attributes and text elements from web pages.
+​Data structuring capabilities for future analysis.
+​Technologies Used
+​Python: The core programming language.
+​Jupyter Notebook: The development environment used for writing and testing the code interactively.
+​BeautifulSoup4 (bs4): For parsing HTML documents and navigating the DOM tree structure.
+​Requests: For handling HTTP requests to fetch webpage data.
+​Technical Challenges and Solutions
+​1. Scope and Variable Overwriting in Loops
+​Challenge: An initial logical error occurred when separating the iteration logic from the extraction output across different notebook cells. The printing function was placed outside the execution block of the loop, causing the program to output only the final record of the scraped dataset due to continuous variable overwriting.
+​Solution: Restructured the notebook execution sequence by encapsulating both the data parsing and the output printing within a single unified for loop block, maintaining strict indentation integrity.
+​2. Python Reserved Keyword Conflicts
+​Challenge: A SyntaxError was encountered when trying to filter HTML elements by their CSS class names using the standard class keyword, which is reserved for object-oriented programming in native Python.
+​Solution: Resolved the syntax conflict by utilizing the BeautifulSoup-specific class_ argument, allowing the script to target specific HTML element classes smoothly.
+​3. Character Encoding Issues
+​Challenge: The extracted price data contained unexpected corrupted characters (e.g., Â£) preceding the currency symbol. This happened due to a mismatch between the website's character encoding format and the default parsing interpretation.
+​Solution: Identified the encoding discrepancy and introduced proper text decoding mechanisms to clean the textual output, ensuring a standardized and accurate dataset.
+
 
 ## 🖼️ Results & Preview
 
@@ -59,6 +85,10 @@ Automated File Organizer
 
 ### file organizer :
 ![file organizer](file_organizer.png) 
+
+
+#### web scraping :
+![web scraping](web_scraping.png) 
 
 ---
 
