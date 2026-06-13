@@ -11,21 +11,37 @@ This repository serves as a showcase for my initial journey into Python programm
 * **Solution:** A smart logistics system I developed for "El Prince" restaurant. 
 * **Key Functionality:** The script dynamically calculates the exact number of rice pots needed based on daily customer volume, reducing food waste. Additionally, it integrates a countdown timer to monitor the time remaining until Iftar, ensuring smooth operations during peak service hours.
 
+### El Prince Kitchen System:
+![Kitchen Result](El_Prince.jpg)
+
+
+
+
 ### 2️⃣ Sales Analysis & Optimization Tool (`sales_analysis.py`) 📈
 * **Problem:** Difficulty in identifying high-value products and tracking overall business performance manually.
 * **Solution:** A robust data processing script that ingests sales data to generate actionable business intelligence.
 * **Key Functionality:** It calculates total revenue, identifies the "King of Sales" (top-selling product), and provides a breakdown of performance metrics, enabling data-driven decisions for inventory stocking.
+
+![Sales Result](sales_result.jpg)
+
 
 ### 3️⃣ Personal Expense Tracker (`expense_tracker.py`) 💰
 * **Problem:** Lack of visibility into daily spending habits and difficulty in managing personal budgets.
 * **Solution:** An automated financial monitoring tool to enforce fiscal discipline.
 * **Key Functionality:** Users can input daily expenses, which are tracked against a budget. The script includes an automated "High-Price Alert" system that warns users when spending exceeds specific, predefined thresholds, helping users maintain better control over their finances.
 
+
+![Expense Result](expense_result.jpg)
+
+
 ### 4️⃣ Asset Goal & Investment Calculator (`asset_calculator.py`) 🏦
 * **Problem:** Uncertainty regarding financial timelines for long-term investments like purchasing property or gold.
 * **Solution:** A complex financial modeling tool that simulates future growth.
 * **Key Functionality:** This script calculates the exact time required to reach financial targets by factoring in compounding investment returns and annual inflation rates. It helps in planning for major life purchases by providing a realistic projection of capital accumulation over time.
 
+
+### Asset Goal Calculator: 
+![Asset Result](AssetGoalCalculator.jpg) 
 
 
 5️⃣ Automated File Organizer (`file_organizer.py`)
@@ -43,6 +59,13 @@ Automated File Organizer
 ​Automated File Routing: Uses conditional logic to sort files instantly.
 ​Robust Path Handling: Implements os.path.join to ensure cross-platform compatibility and avoid path string syntax errors.
 ​Streamlined Efficiency: Eliminates manual file sorting, allowing more focus on core data analysis tasks.
+
+
+
+
+### file organizer :
+![file organizer](file_organizer.png) 
+
 ________________________________________________________________-
 
 6️⃣ Web Scraping and Data Extraction Project:
@@ -78,6 +101,13 @@ Books to Scrape(`web_scraping.py)
 ​Challenge: The extracted price data contained unexpected corrupted characters (e.g., Â£) preceding the currency symbol. This happened due to a mismatch between the website's character encoding format and the default parsing interpretation.
 ​Solution: Identified the encoding discrepancy and introduced proper text decoding mechanisms to clean the textual output, ensuring a standardized and accurate dataset.
 
+
+
+
+#### web scraping :
+![web scraping](web_scraping_prev.png)
+![web scraping](web_scraping_prev2.png)
+
 ------------
 
 # 7️⃣ US Companies Web Scraper
@@ -109,29 +139,6 @@ The project generates a structured `companies.csv` file containing the following
 * Industry
 * Revenue (USD billions)
 * Employees
-
-
-## 🖼️ Results & Preview
-
-### El Prince Kitchen System:
-![Kitchen Result](El_Prince.jpg)
-
-### Sales & Expenses:
-![Sales Result](sales_result.jpg)
-![Expense Result](expense_result.jpg)
-
-### Asset Goal Calculator: 
-![Asset Result](AssetGoalCalculator.jpg) 
-
-
-### file organizer :
-![file organizer](file_organizer.png) 
-
-
-#### web scraping :
-![web scraping](web_scraping_prev.png)
-![web scraping](web_scraping_prev2.png)
-
 
 ![USA Scraping](USA_Scraping.png)
 ![web scraping](USA_Scraping2.png)
