@@ -22,9 +22,13 @@ A high-efficiency logistical solution engineered for "El Prince" restaurant to o
 
 
 ### 2️⃣ Sales Analysis & Optimization Tool (`sales_analysis.py`) 📈
-* **Problem:** Difficulty in identifying high-value products and tracking overall business performance manually.
-* **Solution:** A robust data processing script that ingests sales data to generate actionable business intelligence.
-* **Key Functionality:** It calculates total revenue, identifies the "King of Sales" (top-selling product), and provides a breakdown of performance metrics, enabling data-driven decisions for inventory stocking.
+Sales Analysis & Optimization Tool
+​Overview
+An automated data-processing utility designed to replace manual sales tracking with a streamlined, analytical workflow. This tool transforms raw transaction inputs into meaningful business intelligence, allowing for rapid performance assessment and data-driven decision-making.
+​Core Capabilities & Value Proposition
+​Automated Revenue Analytics: Processes product-level input to generate total revenue metrics instantaneously, reducing manual calculation errors.
+​Performance Metrics & Trend Identification: Features a "King of Sales" algorithm that automatically identifies high-performing products, providing immediate insights into inventory demand and profit drivers.
+​Decision Support: Delivers summarized output that facilitates smarter inventory management and strategic stocking decisions, helping businesses focus on high-value product lines.
 
 ![Sales Result](sales_result.jpg)
 
