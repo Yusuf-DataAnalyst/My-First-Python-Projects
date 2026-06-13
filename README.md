@@ -7,12 +7,16 @@ This repository serves as a showcase for my initial journey into Python programm
 ## 🚀 Projects Portfolio
 
 ### 1️⃣ El Prince Kitchen Management System (`elprince_kitchen_system.py`) 👨‍🍳
-* **Problem:** Managing inventory efficiency and timing during high-pressure shifts in a busy restaurant environment.
-* **Solution:** A smart logistics system I developed for "El Prince" restaurant. 
-* **Key Functionality:** The script dynamically calculates the exact number of rice pots needed based on daily customer volume, reducing food waste. Additionally, it integrates a countdown timer to monitor the time remaining until Iftar, ensuring smooth operations during peak service hours.
+El Prince Kitchen Management System
+​Overview
+A high-efficiency logistical solution engineered for "El Prince" restaurant to optimize kitchen operations during high-pressure scenarios, specifically tailored for peak demand hours during Ramadan. This Python-based application streamlines resource allocation and time management to ensure seamless service delivery.
+​Core Capabilities & Value Proposition
+​Dynamic Inventory Optimization: Implements an algorithmic approach to calculate precise inventory requirements (e.g., rice pot units) based on real-time customer volume inputs, effectively minimizing food waste and overhead.
+​Operational Intelligence: Features a sophisticated countdown and scheduling integration that synchronizes kitchen tasks with the Iftar timeline.
+​Performance Impact: Provides actionable insights by automatically calculating the optimal start time for meal preparation, ensuring that service remains consistent and on-schedule despite extreme demand fluctuations.
 
 ### El Prince Kitchen System:
-![Kitchen Result](El_Prince.jpg)
+![Kitchen Result](El_Prince.png)
 
 
 
@@ -31,7 +35,7 @@ This repository serves as a showcase for my initial journey into Python programm
 * **Key Functionality:** Users can input daily expenses, which are tracked against a budget. The script includes an automated "High-Price Alert" system that warns users when spending exceeds specific, predefined thresholds, helping users maintain better control over their finances.
 
 
-![Expense Result](expense_result.jpg)
+![Expense Result](expense_result.png)
 
 
 ### 4️⃣ Asset Goal & Investment Calculator (`asset_calculator.py`) 🏦
