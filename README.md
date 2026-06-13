@@ -78,6 +78,38 @@ Books to Scrape(`web_scraping.py)
 ​Challenge: The extracted price data contained unexpected corrupted characters (e.g., Â£) preceding the currency symbol. This happened due to a mismatch between the website's character encoding format and the default parsing interpretation.
 ​Solution: Identified the encoding discrepancy and introduced proper text decoding mechanisms to clean the textual output, ensuring a standardized and accurate dataset.
 
+------------
+
+# 7️⃣ US Companies Web Scraper
+
+A robust Python script designed to extract, clean, and structure data regarding the largest companies in the United States by revenue from Wikipedia. This project demonstrates end-to-end data collection (Web Scraping), handling HTTP request headers, data cleaning, and structured storage using Pandas.
+
+## Features
+* **Request Simulation:** Implements custom User-Agent headers within the Requests library to bypass automated bot detection and ensure stable connection with the server.
+* **HTML Parsing:** Utilizes BeautifulSoup to navigate the HTML DOM structure and precisely target the desired data tables.
+* **Data Cleaning:** Trims whitespace and handles newline characters dynamically using text manipulation methods.
+* **Structured Export:** Processes the extracted rows into a Pandas DataFrame and exports the final dataset into a clean CSV file.
+
+## Tech Stack
+* **Language:** Python
+* **Libraries:** Requests, BeautifulSoup4, Pandas
+* **Environment:** Jupyter Notebook
+
+## Code Workflow
+1. **HTTP Request:** Sent a GET request to the Wikipedia URL with a browser-impersonating User-Agent header.
+2. **Parsing:** Parsed the raw HTML content using the BeautifulSoup HTML parser.
+3. **Extraction:** Targeted the specific table attributes (`wikitable sortable`) to fetch table headers (`<th>`) and table rows (`<tr>`).
+4. **Data Structuring:** Iterated through the row cells (`<td>`), cleaned the text formatting, and dynamically appended them into a Pandas DataFrame.
+5. **Storage:** Saved the structured dataset locally as a CSV file while disabling the default DataFrame index column.
+
+## Output
+The project generates a structured `companies.csv` file containing the following features:
+* Rank
+* Name
+* Industry
+* Revenue (USD billions)
+* Employees
+
 
 ## 🖼️ Results & Preview
 
@@ -99,6 +131,10 @@ Books to Scrape(`web_scraping.py)
 #### web scraping :
 ![web scraping](web_scraping_prev.png)
 ![web scraping](web_scraping_prev2.png)
+
+
+![USA Scraping](USA_Scraping.png)
+![web scraping](USA_Scraping2.png)
 
 ---
 
